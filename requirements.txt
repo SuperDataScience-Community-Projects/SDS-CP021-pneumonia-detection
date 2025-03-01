@@ -11,3 +11,4 @@ keras-preprocessing
 keras
 scipy
 joblib
+torchvision
