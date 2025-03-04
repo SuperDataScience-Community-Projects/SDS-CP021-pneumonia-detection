@@ -5,3 +5,4 @@ tuned_resnet50_model.h5
 venv/
 tuned_resnet50_model.tflite
 README.md
+.devcontainer
